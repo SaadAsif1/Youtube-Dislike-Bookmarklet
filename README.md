@@ -6,7 +6,6 @@ YouTube removed public dislikes, making it harder to gauge feedback. While many 
 
 This **bookmarklet** is a **zero-install, lightweight alternative** that simply **fetches the dislike count** and displays it next to the dislike button—just like before!  
 
----
 
 ## **🚀 Features**  
 
@@ -16,7 +15,6 @@ This **bookmarklet** is a **zero-install, lightweight alternative** that simply 
 ✅ **Works in all browsers** (Chrome, Firefox, Edge, Safari)  
 ✅ **Instant updates**—no need to install anything!  
 
----
 
 ## **📌 How to Use**  
 
@@ -28,7 +26,6 @@ This **bookmarklet** is a **zero-install, lightweight alternative** that simply 
 
 🎉 **The dislike count will appear next to the dislike button automatically!**  
 
----
 
 ## **💡 Why Use This Instead of an Extension?**  
 
@@ -37,7 +34,6 @@ This **bookmarklet** is a **zero-install, lightweight alternative** that simply 
 🔹 **Works Everywhere** – Even on **restricted devices** where extensions are blocked.  
 🔹 **Fully Transparent** – Just a **short JavaScript snippet**—no hidden tracking.  
 
----
 
 ## **🎯 Use Cases**  
 
@@ -46,7 +42,6 @@ This **bookmarklet** is a **zero-install, lightweight alternative** that simply 
 ✔️ **Journalists & Researchers** – Get real audience sentiment without bias.  
 ✔️ **For Creators** – See how your content is being received.  
 
----
 
 ## **🛠 Troubleshooting**  
 
@@ -55,19 +50,16 @@ If the dislike count doesn't appear:
 🔹 Refresh the page and **click the bookmarklet again**.  
 🔹 Ensure your browser supports **JavaScript bookmarklets**.  
 
----
 
 ## **👨‍💻 Contributing**  
 
 Want to improve this bookmarklet? Feel free to **submit a pull request** or **open an issue** to discuss new features!  
 
----
 
 ## **📜 License**  
 
 This project is **open-source** under the **MIT License**. Use it, modify it, and share it freely!  
 
----
 
 🚀 **Enjoy bringing back YouTube dislikes the simple way?**  
 Give this repo a ⭐️ and spread the word!  
