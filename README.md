@@ -52,16 +52,5 @@ If the dislike count doesn't appear:
 🔹 Refresh the page and **click the bookmarklet again**.  
 🔹 Ensure your browser supports **JavaScript bookmarklets**.  
 
-
-## **👨‍💻 Contributing**  
-
-Want to improve this bookmarklet? Feel free to **submit a pull request** or **open an issue** to discuss new features!  
-
-
-## **📜 License**  
-
-This project is **open-source** under the **MIT License**. Use it, modify it, and share it freely!  
-
-
 🚀 **Enjoy bringing back YouTube dislikes the simple way?**  
 Give this repo a ⭐️ and spread the word!  
