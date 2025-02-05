@@ -19,6 +19,7 @@ This **bookmarklet** is a **zero-install, lightweight alternative** that simply 
 ## **📌 How to Use**  
 
 1️⃣ **Copy the code**  
+https://github.com/SaadAsif1/Youtube-Dislike-Bookmarklet/blob/main/restore-youtube-dislikes.js
 2️⃣ **Create a new bookmark** in your browser  
 3️⃣ **Paste the copied code** into the **"URL"** field of the bookmark  
 4️⃣ **Save the bookmark**  
